@@ -8,16 +8,16 @@ public class Wilder{
     this.aware=aware;
   }
 
-  public String getfirstname(){
+  public String getFirstname(){
     return this.firstname;
   }
-  public boolean isaware(){
+  public boolean isAware(){
     return this.aware;
   }
-  public void setfirstname(String firstname){
+  public void setFirstname(String firstname){
     this.firstname=firstname;
   }
-  public void setaware(boolean aware){
+  public void setAware(boolean aware){
     this.aware=aware;
   }
   public String whoAmI(){
